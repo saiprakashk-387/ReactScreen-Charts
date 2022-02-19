@@ -1,0 +1,62 @@
+{
+  "data":[
+    {     
+      "type": "Cricket",
+      "value":50
+    },
+    {     
+      "type": "Vollyball",
+      "value":15
+    },
+    {     
+      "type": "Basball",
+      "value":10
+    },
+    {     
+      "type": "Football",
+      "value":10
+    },
+    {     
+      "type": "Batminton",
+      "value":5
+    },
+    {     
+      "type": "Kabaddi",
+      "value":10
+    }
+  ],
+  "barchart": [
+    {
+      "type": "jan",
+      "sales": 38
+    },
+    {
+      "type": "feb",
+      "sales": 52
+    },
+    {
+      "type": "march",
+      "sales": 61
+    },
+    {
+      "type": "april",
+      "sales": 145
+    },
+    {
+      "type": "may",
+      "sales": 48
+    },
+    {
+      "type": "june",
+      "sales": 38
+    },
+    {
+      "type": "july",
+      "sales": 40
+    },
+    {
+      "type": "august",
+      "sales": 52
+    }
+  ]
+}

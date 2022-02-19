@@ -1,0 +1,24 @@
+div#side {
+    width: 10%;
+    height: 133vh;
+    position: absolute;
+    margin-left: 28px;
+    background-color:blue;
+}
+li.sideli {
+    list-style: none;
+    padding-bottom: 50px;
+}
+div#d2 {
+    margin-top: 400px;
+}
+li.sidelibottom {
+    padding-bottom: 30px;
+    list-style: none;
+}
+
+
+li.lidt {
+    display: inline-flex;
+    margin: 13px;
+}
